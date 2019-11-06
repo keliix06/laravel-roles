@@ -1,6 +1,6 @@
 {
-    "name": "nikolaynesov/laravel-roles",
-    "description": "Powerful package for handling roles and permissions in Laravel 5",
+    "name": "keliix06/laravel-roles",
+    "description": "Powerful package for handling roles and permissions in Laravel 6",
     "keywords": ["roles", "permissions", "acl", "auth", "laravel", "illuminate"],
     "license": "MIT",
     "authors": [
@@ -11,6 +11,10 @@
         {
             "name": "Nikolay Nesov",
             "email": "nikolaynesov@gmail.com"
+        },
+        {
+            "name": "Doyle Lewis",
+            "email": "keliix06@gmail.com"
         }
     ],
     "require": {
